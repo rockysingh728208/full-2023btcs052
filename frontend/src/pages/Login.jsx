@@ -68,8 +68,6 @@ const Login = () => {
             {isLogin ? "Login" : "Register"}
           </button>
         </form>
-
-        {/* Toggle Button */}
         <p className="text-center text-gray-700 mt-6">
           {isLogin ? (
             <>
