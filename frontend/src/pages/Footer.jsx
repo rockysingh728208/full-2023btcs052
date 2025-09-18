@@ -14,8 +14,6 @@ const Footer = () => {
             Quality products at the best prices.
           </p>
         </div>
-
-      
         <div>
           <h3 className="text-lg font-semibold text-white mb-4">Quick Links</h3>
           <ul className="space-y-2 text-sm">
@@ -25,8 +23,6 @@ const Footer = () => {
             <li><a href="/contact" className="hover:text-yellow-400">Contact</a></li>
           </ul>
         </div>
-
-      
         <div>
           <h3 className="text-lg font-semibold text-white mb-4">Customer Support</h3>
           <ul className="space-y-2 text-sm">
@@ -41,8 +37,6 @@ const Footer = () => {
           <p className="text-sm"> 123 Main Street,Sitamarhi</p>
           <p className="text-sm"> +91 7282089286</p>
           <p className="text-sm"> sagar@electricshop.com</p>
-
-          {/* Social Media */}
           <div className="flex space-x-4 mt-4 text-xl">
             <a href="#" className="hover:text-yellow-400"><FaFacebookF /></a>
             <a href="#" className="hover:text-yellow-400"><FaInstagram /></a>
@@ -52,7 +46,6 @@ const Footer = () => {
         </div>
       </div>
 
-      {/* Bottom Line */}
       <div className="text-center text-sm text-gray-500 mt-8 border-t border-gray-700 pt-4">
         © {new Date().getFullYear()} Electric Shop. All rights reserved.
       </div>

@@ -1,9 +1,13 @@
-import React from 'react'
+import React from "react";
+import Header from "../components/Header"; // 👈 path check karna (components ke andar hai)
 
 const Product = () => {
   return (
-    <div>Product</div>
-  )
-}
+    <div>
+      <h1 className="text-3xl font-bold text-center mt-6">Products Page</h1>
+      <Header />
+    </div>
+  );
+};
 
-export default Product
+export default Product;
