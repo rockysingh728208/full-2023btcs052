@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "../components/Header"; // 👈 path check karna (components ke andar hai)
+import Header from "../components/Header"; 
 
 const Product = () => {
   return (

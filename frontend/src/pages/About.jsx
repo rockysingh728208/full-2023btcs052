@@ -4,7 +4,7 @@ import interior from '../assets/interior.jpg';
 const About = () => {
   return (
     <div className="bg-gray-50 min-h-screen">
-      {/* Hero Section */}
+      
       <section className="relative bg-gray-800 text-white">
         <img
           src={interior}

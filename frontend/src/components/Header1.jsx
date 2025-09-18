@@ -5,15 +5,13 @@ const Header1 = () => {
       const navigate = useNavigate();
   return (
     <section className="relative w-full h-[400px] sm:h-[500px] md:h-[600px]">
-      {/* Background Image */}
+    
       <img
     
         src={shopimage}
         alt="Electric Shop"
         className="w-full h-full object-cover"
       />
-
-      {/* Overlay */}
       <div className="absolute inset-0 bg-black/40 flex flex-col justify-center items-center text-center px-4">
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-yellow-400 mb-4 drop-shadow-lg">
           Welcome to Raja Electric Shop
