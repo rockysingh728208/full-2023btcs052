@@ -99,13 +99,13 @@ const Contact = () => {
           </p>
           <div className="space-y-4 text-gray-700">
             <div>
-              <strong> Address:</strong> 123 Spark Street, Electric City, India
+              <strong> Address:</strong> Barahi,Bazar,sitamarhi,Bihar
             </div>
             <div>
-              <strong> Email:</strong> info@sparkelectric.com
+              <strong> Email:</strong> rajaelectricshop@gmail.com
             </div>
             <div>
-              <strong> Phone:</strong> +91 98765 43210
+              <strong> Phone:</strong> +91 9117400640
             </div>
           </div>
         </div>
